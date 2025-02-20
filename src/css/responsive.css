@@ -1,0 +1,8 @@
+@media (max-width: 420px) {
+    main>div {
+        width: 90%;
+    }
+    p.start-description, p.end-description {
+        width: 100%;
+    }
+}
